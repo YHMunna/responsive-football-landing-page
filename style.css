@@ -138,6 +138,7 @@ body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     margin: 100px 30px;
+    padding-left: 150px;
 }
 
 
